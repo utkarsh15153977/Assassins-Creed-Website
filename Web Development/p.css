@@ -1,0 +1,44 @@
+*{
+	padding:0;
+	margin:0;
+}
+h1{
+	color:green;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:60px;
+	margin-bottom:20px;
+}
+
+h2{
+	color:mediumorchid;
+	font-size:40px;
+	margin-bottom:30px;
+	}
+p{
+	font-size:20px;
+	font-family:Comic Sans MS, cursive, sans-seri;
+	margin-bottom:30px;
+}
+.pera1{
+	border-bottom:2px solid black;
+	width:75%
+}
+.pera2{
+	width:75%
+}
+.pera3{
+	
+	width:75%
+}
+.dummy{
+	
+	width:25%;
+	float:right;
+	text-align:center;
+	line-height:80px;
+}
+.nav{
+	width:1140px;
+	margin-left:auto;
+	margin-right:auto;
+}
